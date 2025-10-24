@@ -1,12 +1,12 @@
-# 99Tech Code Challenge #1 #
-
 ## Problem 1:
-Time Spent: 15m
+- Time Spent: 15m
 ## Problem 2:
-Time spent: 2h
-Techstack: Gemini, Vite, React, TailwindCss, React Hook Form, Zod.
+- Time spent: 2h
+- Techstack: Gemini, Vite, React, TailwindCss, React Hook Form, Zod.
 ## Problem 3:
-Time spent: 1h
+- Time spent: 1h
+
+# 99Tech Code Challenge #1 #
 
 Note that if you fork this repository, your responses may be publicly linked to this repo.  
 Please submit your application along with the solutions attached or linked.   
