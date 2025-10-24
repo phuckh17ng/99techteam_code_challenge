@@ -1,6 +1,3 @@
-## Techstack: Gemini, Vite, React, TailwindCss, React Hook Form, Zod.
-# Time spent: 2h
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
